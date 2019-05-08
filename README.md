@@ -32,7 +32,7 @@ You must have installed in your machine composer or npm globally to use these fe
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/micheletolve/starter-admin-template/issues) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/micheletolve/simplate/issues) here on GitHub.
 
 ## About
 

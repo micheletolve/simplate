@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/micheletolve/starter-admin-template.git"
+    "url": "git+https://github.com/micheletolve/simplate.git"
   },
   "keywords": [
     "admin",
@@ -21,9 +21,9 @@
   "author": "michele tolve",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/micheletolve/starter-admin-template/issues"
+    "url": "https://github.com/micheletolve/simplate/issues"
   },
-  "homepage": "https://github.com/micheletolve/starter-admin-template#readme",
+  "homepage": "https://github.com/micheletolve/simplate#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.1",
     "bootstrap": "^4.3.1",

@@ -1,5 +1,5 @@
 {
-  "name": "simplate",
+  "name": "admin-simplate",
   "version": "0.0.1",
   "description": "A simple admin template with Bootstrap 4",
   "main": "login.html",

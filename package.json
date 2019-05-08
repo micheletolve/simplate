@@ -1,0 +1,32 @@
+{
+  "name": "simplate",
+  "version": "0.0.1",
+  "description": "A simple admin template with Bootstrap 4",
+  "main": "login.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheletolve/starter-admin-template.git"
+  },
+  "keywords": [
+    "admin",
+    "template",
+    "dashboard",
+    "bootstrap",
+    "material",
+    "design"
+  ],
+  "author": "michele tolve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micheletolve/starter-admin-template/issues"
+  },
+  "homepage": "https://github.com/micheletolve/starter-admin-template#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}

@@ -26,9 +26,9 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 ### Advanced Usage
 
-After installation, run `composer update` and then run `composer install` which will open up a preview of the template in your default browser. If not work properly check the path of vendor bootstrap and jquery installed with composer, or run `npm update` and then run `npm install` which will open up a preview of the template in your default browser. If not work properly check the path of vendor bootstrap and jquery installed with npm
+After installation run `npm update` which will open up a preview of the template in your default browser. If not work properly check the path of vendor bootstrap and jquery installed with npm
 
-You must have installed in your machine composer or npm globally to use these features.
+You must have installed in your machine [npm](https://www.npmjs.com/) globally to use these features.
 
 ## Bugs and Issues
 

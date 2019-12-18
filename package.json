@@ -1,32 +1,32 @@
 {
-  "name": "admin-simplate",
-  "version": "0.0.1",
-  "description": "A simple admin template with Bootstrap 4",
-  "main": "login.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/micheletolve/simplate.git"
-  },
-  "keywords": [
-    "admin",
-    "template",
-    "dashboard",
-    "bootstrap",
-    "material",
-    "design"
-  ],
-  "author": "michele tolve",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/micheletolve/simplate/issues"
-  },
-  "homepage": "https://github.com/micheletolve/simplate#readme",
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.8.1",
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1"
-  }
+    "name": "admin-simplate",
+    "version": "1.0.0",
+    "description": "A simple admin template with Bootstrap 4",
+    "main": "login.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/micheletolve/simplate.git"
+    },
+    "keywords": [
+        "admin",
+        "template",
+        "dashboard",
+        "bootstrap",
+        "material",
+        "design"
+    ],
+    "author": "michele tolve",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/micheletolve/simplate/issues"
+    },
+    "homepage": "https://github.com/micheletolve/simplate#readme",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.12.0",
+        "bootstrap": "^4.4.1",
+        "jquery": "^3.4.1"
+    }
 }
